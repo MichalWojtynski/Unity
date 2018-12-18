@@ -1,0 +1,60 @@
+APLIKACJA SOR INFO - MAZOWSZE
+Dziêki niej mo¿esz sprawdziæ ile osób oczekuje na 
+danym Szpitalnym Oddziale Ratunkowym, lub
+poinformowaæ o tym innych.
+
+SprawdŸ gdzie jest najmniejsza kolejka, by jak 
+najszybciej zostaæ przyjêtym!
+
+Daj znaæ innym by kolejka nie ros³a 
+w nieskoñczonoœæ!
+
+WyraŸ swoj¹ opiniê czy zosta³eœ dobrze obs³u¿ony!
+
+***
+
+Aplikacja pokazuje stan SOR'ów na Mazowszu.
+
+1. Kliknij na miasto z listy, aby je wybraæ.
+
+2.1. Przesuwaj po ekranie, góra_dó³ aby sprawdziæ 
+d³ugoœæ kolejki w danej placówce. (Liczba obok ikonki
+3 ludzików) mo¿esz równie¿ sprawdzaæ zadowolenie
+z obs³ugi, patrz¹c na liczbê ³apek w górê i w dó³.
+
+2.2 Kliknij na placówkê aby j¹ wybrac, lub wyszukaj 
+klikaj¹c na napis "wyszukaj" w górnej czêœci ekranu.
+Klikaj¹c na placówkê rozwiniesz ostatnio dodane 
+komentarze
+
+3. Dodaj w³asny komentarz, klikaj¹c "dodaj".
+Wype³nij formularz. Podaj swój nick (to mo¿e byæ 
+imiê, b¹dŸ pseudonim, które nie bêdzie wykorzystane
+w ¿aden sposób, jedynie pojawi siê na liœcie)
+Wpisz numer, ile osób oczekuje w kolejce przed 
+Tob¹. Dodaj krótki komentarz z przydatn¹ informacj¹. 
+np." Jest tylko 1 lekarz".
+
+4. Napisany przez Ciebie komentarz powinien po 
+chwili pojawiæ siê na liœcie. Komentarz wygaœnie po 
+dwóch dniach.
+
+***
+
+Pamiêtaj aby korzystaæ z aplikacji odpowiedzialnie!
+
+Nie ponosimy odpowiedzialnoœci za b³êdne 
+informacje. Wszystkie dane pochodz¹ od 
+u¿ytkowników.
+
+W razie b³êdów, przydatnych informacji,
+nieuwzglêdnionych placówek prosimy o kontakt na 
+email: sorinfoapp@gmail.com
+
+***
+
+Twórcy: 
+Micha³ Wojtyñski
+Adam Roziñski
+Micha³ Hutny
+
